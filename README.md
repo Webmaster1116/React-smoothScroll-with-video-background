@@ -2,12 +2,6 @@
 
 Sample landing page built with TailwindCSS for fully responsiveness and React Scroll for smooth scrolling between sections.
 
-<p align="center">
-  <a href="https://smooth-scroll-ruttmann.netlify.app/" target="_blank">
-    <img alt="Demo on Netlify" src="docs/demo-netlify.png">
-  </a>
-</p>
-
 ## :desktop_computer: Desktop layout
 
 <p align="center">
